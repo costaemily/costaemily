@@ -1,5 +1,5 @@
 # Emily Costa
-- 🌱 Atualmente estudando Android<br><br>
+- 🌱 Atualmente estudando Android<br>
 <!--
 **emilys-costa/emilys-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
