@@ -39,4 +39,4 @@ Here are some ideas to get you started:
  
 ## Obrigada pela visita!
  
- ![](https://komarev.com/ghpvc/?username=emily-dscosta&color=green)
+ ![](https://komarev.com/ghpvc/?username=emilys-costa&color=green)
