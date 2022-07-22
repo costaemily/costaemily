@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - :office: Diretora Administrativa-Financeira na Vanellus Empresa Junior.
 
-- :mag: Em busca de conhecimeto de novas tecnologias.
+- :mag: Em busca de conhecimeto em novas tecnologias.
 
  <div>
   <a href="https://github.com/costaemily">
