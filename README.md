@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - :open_book: Atualmente estudando desenvolvimento WEB e Android.
 
-- :office: Diretora Administrativa-Financeira na Vanullus Empresa Junior.
+- :office: Diretora Administrativa-Financeira na Vanellus Empresa Junior.
 
 - :mag: Em busca de conhecimeto de novas tecnologias.
 
