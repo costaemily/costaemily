@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 - :computer: Graduanda em Engenharia da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Birigui (2019-2023).
 
-- :open_book: Atualmente estudando desenvolvimento WEB e Android.
+- :open_book: Atualmente estudando desenvolvimento WEB.
 
-- :office: Diretora Administrativa-Financeira na Vanellus Empresa Junior.
+- :gorilla: Estagiária em desenvolvimento de software na Gorila Invest.
+
+- :office: Cofundadora da Vanellus Empresa Junior.
 
 - :mag: Em busca de conhecimeto em novas tecnologias.
 
