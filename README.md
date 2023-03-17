@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 - :computer: Graduanda em Engenharia da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Birigui (2019-2023).
 
-- :gorilla: Estagiária em desenvolvimento de software na Gorila Invest.
+- :gorilla: Estagiária em desenvolvimento mobile na Gorila Invest.
 
 - :office: Cofundadora da Vanellus Empresa Junior.
 
-- :open_book: Atualmente estudando desenvolvimento WEB.
+- :open_book: Atualmente estudando desenvolvimento MOBILE.
 
 - :mag: Em busca de conhecimeto em novas tecnologias.
 
@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 </div>
  <div style="display: inline_block">
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="CPlusPlus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Csharp" height="40" width= "40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -41,6 +40,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Java1" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="react" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="python" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="react-native" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/reactnative-original.svg" />
+  <img align="center" alt="typescript" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/typescript-original.svg" />
 </div>
  
 ##  
