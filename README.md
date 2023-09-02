@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - :computer: Graduanda em Engenharia da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Birigui (2019-2023).
 
-- :gorilla: Frontend Mobile Developer Jr no Gorila Invest.
+- :gorilla: Front-end Mobile Developer Jr no Gorila Invest.
 
 - :office: Cofundadora da Vanellus Empresa Junior.
 
